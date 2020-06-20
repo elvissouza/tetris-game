@@ -27,6 +27,8 @@
 
 <strong>Tetris</strong>  é um jogo electrônico muito popular, desenvolvido por Alexey Pajitnov, Dmitry Pavlovsky e Vadim Gerasimov, e lançado em Junho de 1984. Pajitnov e Pavlovsky eram engenheiros informáticos no Centro de Computadores da Academia Russa das Ciências e Vadim era um aluno com 16 anos. [Wikipédia](https://pt.wikipedia.org/wiki/Tetris)
 
+**DEMO: [Clique Aqui](https://elvissouza.github.io/tetris-game/)**  
+
 Realizado em base de estudos, feito com a freeCodeCamp criando um jogo do início ao fim. Tetris um jogo clássico para conquistar Score preenchendo os espaços em linha. Jogo criado para fins de estudos sem nenhum motivo de  comercializar ou algo do gênero.
 
 
