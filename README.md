@@ -18,6 +18,7 @@
  # Índice
 
 - [Sobre](#sobre)
+- [Assunto](#assunto)
 - [Referências](#referencia)
 
 <a id="sobre"></a>
@@ -27,6 +28,31 @@
 <strong>Tetris</strong>  é um jogo electrônico muito popular, desenvolvido por Alexey Pajitnov, Dmitry Pavlovsky e Vadim Gerasimov, e lançado em Junho de 1984. Pajitnov e Pavlovsky eram engenheiros informáticos no Centro de Computadores da Academia Russa das Ciências e Vadim era um aluno com 16 anos. [Wikipédia](https://pt.wikipedia.org/wiki/Tetris)
 
 Realizado em base de estudos, feito com a freeCodeCamp criando um jogo do início ao fim. Tetris um jogo clássico para conquistar Score preenchendo os espaços em linha. Jogo criado para fins de estudos sem nenhum motivo de  comercializar ou algo do gênero.
+
+
+<a id="assunto"></a>
+
+## 📝 Assunto
+
+No projeto do tetris, abordou o seguintes metodos do JavaScript:
+
+* addEventListener()
+* querySelector()
+* querySelectorAll()
+* keyCode()
+* Math.floor()
+* Math.random()
+* length
+* forEach()
+* splice()
+* clearInterval()
+* setInterval()
+* some()
+* innerHTML()
+* every()
+* add()
+* remove()
+* contains()
 
 <a id="referencia"></a>
 
