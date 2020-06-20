@@ -3,7 +3,7 @@
     Tetris Game
  </h1>
  <h3 align="center">
-    <img alt="Logo" title="#logo" width="300px" src="">
+    <img alt="Logo" title="#logo" width="100px" src="https://github.com/elvissouza/tetris-game/blob/master/assets/logo.png">
     <br><br>
 </h3>
 <p align="center">
@@ -18,6 +18,7 @@
  # Índice
 
 - [Sobre](#sobre)
+- [Assunto](#assunto)
 - [Referências](#referencia)
 
 <a id="sobre"></a>
@@ -28,12 +29,37 @@
 
 Realizado em base de estudos, feito com a freeCodeCamp criando um jogo do início ao fim. Tetris um jogo clássico para conquistar Score preenchendo os espaços em linha. Jogo criado para fins de estudos sem nenhum motivo de  comercializar ou algo do gênero.
 
+
+<a id="assunto"></a>
+
+## 📝 Assunto
+
+No projeto do tetris, abordou o seguintes metodos do JavaScript:
+
+* addEventListener()
+* querySelector()
+* querySelectorAll()
+* keyCode()
+* Math.floor()
+* Math.random()
+* length
+* forEach()
+* splice()
+* clearInterval()
+* setInterval()
+* some()
+* innerHTML()
+* every()
+* add()
+* remove()
+* contains()
+
 <a id="referencia"></a>
 
 ## ⁉️ Referências
 
-As aulas foram realizada pela **[Ania Kubów](https://github.com/kubowania)** no canal da **freeCodeCamp**.
-Canal citado no projeto: [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
-Creditos: [DanielWeiner](https://codepen.io/DanielWeiner/full/iFadn)
+As aulas foram realizada pela **[Ania Kubów](https://github.com/kubowania)** no canal da **freeCodeCamp**.  
+Canal citado no projeto: [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)  
+Creditos: [DanielWeiner](https://codepen.io/DanielWeiner/full/iFadn)  
 
 ---
