@@ -3,7 +3,7 @@
     Tetris Game
  </h1>
  <h3 align="center">
-    <img alt="Logo" title="#logo" width="300px" src="">
+    <img alt="Logo" title="#logo" width="100px" src="https://github.com/elvissouza/tetris-game/blob/master/assets/logo.png">
     <br><br>
 </h3>
 <p align="center">
