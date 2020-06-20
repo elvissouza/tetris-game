@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css?family=Press+Start+2P");
+@import "pages/rowTetris";
+@import "pages/button";
+@import "pages/titlePage";
+@import "pages/miniDash";
+@import "pages/_navGuide";
+@import "pages/titleWasted";
+
+* {
+  margin: 0;
+  padding: 0;
+}
+html {
+  background-color: #1c1c1a;
+  font-size: 30pt;
+  font-family: "Press Start 2p";
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  height: 100vh;
+
+  .container {
+    height: 100%;
+    @include flexContain;
+  }
+}
