@@ -58,8 +58,8 @@ No projeto do tetris, abordou o seguintes metodos do JavaScript:
 
 ## ⁉️ Referências
 
-As aulas foram realizada pela **[Ania Kubów](https://github.com/kubowania)** no canal da **freeCodeCamp**.
-Canal citado no projeto: [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
-Creditos: [DanielWeiner](https://codepen.io/DanielWeiner/full/iFadn)
+As aulas foram realizada pela **[Ania Kubów](https://github.com/kubowania)** no canal da **freeCodeCamp**.  
+Canal citado no projeto: [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)  
+Creditos: [DanielWeiner](https://codepen.io/DanielWeiner/full/iFadn)  
 
 ---
