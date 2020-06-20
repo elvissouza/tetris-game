@@ -1,0 +1,37 @@
+.mini-dashscore {
+  margin-left: 50px;
+  width: 200px;
+  height: 400px;
+  border-radius: 4px;
+  background-color: #04202b38;
+  box-shadow: 1.5px 2.5px 10px #0ebeff;
+
+  .mini-grid {
+    margin: 30px 50px;
+    width: 80px;
+    height: 80px;
+    display: flex;
+    flex-wrap: wrap;
+    border: $borderColor;
+    background-color: #0099ffc5;
+
+    div {
+      @include sizeTetris;
+    }
+  }
+  .score-show {
+    color: white;
+    font-size: 10pt;
+    @include flexContain;
+    @include alignRow;
+  }
+
+  .score-display {
+    display: none;
+  }
+
+  .score-color {
+    color: #9ae4ff;
+    filter: drop-shadow(5px 10px 2px #0ebeff);
+  }
+}

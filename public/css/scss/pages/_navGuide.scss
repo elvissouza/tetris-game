@@ -1,0 +1,21 @@
+.navGuide {
+  margin-top: 2em;
+  color: white;
+  font-size: 10pt;
+  @include flexContain;
+
+  .navigation {
+    font-size: 10pt;
+    margin-bottom: 1em;
+  }
+  p {
+    @include alignRow;
+    font-size: 5pt;
+    i {
+      text-align: center;
+      margin-right: 1em;
+      margin-bottom: 0.5em;
+      font-size: 10pt;
+    }
+  }
+}
