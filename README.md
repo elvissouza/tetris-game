@@ -66,3 +66,5 @@ Canal citado no projeto: [freeCodeCamp](https://www.youtube.com/channel/UC8butIS
 **OBS:** Não é totalmente responsivo(O Game)
 
 ---
+## Support
+<a href="https://www.buymeacoffee.com/elvissouza" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
